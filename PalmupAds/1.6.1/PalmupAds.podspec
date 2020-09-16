@@ -74,7 +74,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :http => "https://storage.googleapis.com/palmup-sdk/ios/1.6.0/PalmupAds-v1.6.0.zip" }
+  spec.source       = { :http => "https://storage.googleapis.com/palmup-sdk/ios/1.6.1/PalmupAds-v1.6.1.zip" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
