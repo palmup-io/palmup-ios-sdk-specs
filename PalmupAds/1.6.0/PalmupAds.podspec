@@ -65,7 +65,7 @@ Pod::Spec.new do |spec|
 
   #  When using multiple platforms
   spec.ios.deployment_target = "13.0"
-
+  spec.ios.vendored_frameworks = "PalmupAds.framework"
 
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
