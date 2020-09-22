@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "PalmupAds"
-  spec.version      = "1.6.3"
+  spec.version      = "1.6.4"
   spec.summary      = "PalmupAds SDK"
 
   # This description is used to generate tags and improve search results.
@@ -74,7 +74,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :http => "https://storage.googleapis.com/palmup-sdk/ios/1.6.3/PalmupAds-v1.6.3.zip" }
+  spec.source       = { :http => "https://storage.googleapis.com/palmup-sdk/ios/1.6.4/PalmupAds-v1.6.4.zip" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
